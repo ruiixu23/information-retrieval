@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="org.scalanlp:breeze-math_2.10:0.4" type="repository">
+    <properties maven-id="org.scalanlp:breeze-math_2.10:0.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/breeze-math_2.10-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/breeze-core_2.10-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/paranamer-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencsv-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scalalogging-log4j_2.10-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-reflect-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.0-beta3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.0-beta4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netlib-java-0.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/arpack_combined_all-0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jblas-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math3-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jtransforms-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

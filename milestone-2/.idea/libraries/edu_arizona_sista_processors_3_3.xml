@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="edu.arizona.sista:processors:3.3" type="repository">
+    <properties maven-id="edu.arizona.sista:processors:3.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/processors-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xom-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-1.3.03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xalan-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jollyday-0.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-api-2.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ejml-0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stanford-corenlp-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xom-1.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stanford-corenlp-3.3.1-models.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/weka-dev-3.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-cup-0.11a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-package-manager-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jopt-simple-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/liblinear-1.94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libsvm-3.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
